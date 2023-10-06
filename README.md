@@ -98,5 +98,5 @@ Defaulters in the given dataset.
 
 ## Author
 
-- [@sourav03dutta](https://github.com/sourav03dutta)
+- [sourav03dutta](https://github.com/sourav03dutta)
 
